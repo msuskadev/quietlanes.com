@@ -1,0 +1,160 @@
+{
+    "root": {
+        "data": {
+            "id": "c3ot4p1zo340",
+            "created": 1592948540571,
+            "text": "quietlanes.com"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c3ot52oqsu00",
+                    "created": 1592948570245,
+                    "text": "logo"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c3ot53hh1gw0",
+                    "created": 1592948571982,
+                    "text": "website"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c3ot5zs1vtk0",
+                    "created": 1592948642279,
+                    "text": "hosting"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c3ot62y7ty80",
+                            "created": 1592948649183,
+                            "text": "consider github hosting"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c3ot6gw8zhk0",
+                    "created": 1592948679538,
+                    "text": "BLOG design"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c3ot6qm841c0",
+                            "created": 1592948700699,
+                            "text": "prepare mockups"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c3ot6wmh0yo0",
+                                    "created": 1592948713775,
+                                    "text": "insporation: https://personal.jekyllthemes.io/"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c3ot82f8qiw0",
+                    "created": 1592948804763,
+                    "text": "make website responsive"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c3ot8dfbnxc0",
+                            "created": 1592948828712,
+                            "text": "consider using bootstrap"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c3ot8tsluu00",
+                    "created": 1592948864344,
+                    "text": "start collecting data"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c3ot9g775y00",
+                            "created": 1592948913116,
+                            "text": "prepare list of:"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c3ot9l0flqo0",
+                                    "created": 1592948923590,
+                                    "text": "people"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c3ot9mo3ip40",
+                                    "created": 1592948927198,
+                                    "text": "questions"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c3ot9p6znao0",
+                                    "created": 1592948932694,
+                                    "text": "data to display"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c3ot9w2iabs0",
+                    "created": 1592948947660,
+                    "text": "prepare google analitycs"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c3otb3c8o340",
+                    "created": 1592949041851,
+                    "text": "RODO & COOKIES MANAGMENT"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c3otbfmvpc00",
+                    "created": 1592949068615,
+                    "text": "PUBLISH",
+                    "layout_fish-bone-master_offset": {
+                        "x": 427,
+                        "y": -25
+                    }
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "fish-bone",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
