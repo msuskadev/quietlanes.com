@@ -17,6 +17,7 @@ body {
 .announcement {
     color: white;
     font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     position: absolute;
     bottom: 15%;
     text-align: center;
